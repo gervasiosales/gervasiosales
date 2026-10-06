@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Gerv%C3%A1sio%20Sales&fontColor=FFFFFF&fontSize=46&fontAlignY=35&desc=Analista%20de%20TI%20%7C%20Aura%20Minerals&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://i.pinimg.com/736x/6f/b2/72/6fb27200744648265fb9ac14bf8e9f22.jpg" width="100%" />
 </div>
 
 <h3 align="center">Olá! Eu sou o Gervásio Sales 👋</h3>

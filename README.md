@@ -41,8 +41,4 @@ Sou Analista de TI na Aura Minerals, onde cuido de infraestrutura, suporte e aut
 <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gervasiosales&label=Visitas%20no%20perfil&color=1F6FEB&style=flat-square" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />

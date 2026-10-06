@@ -4,6 +4,11 @@
 
 <h3 align="center">Olá! Eu sou o Gervásio Sales 👋</h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/gervasio-sales/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gervasio.sales@auraminerals.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 🚀 Sobre mim

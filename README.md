@@ -1,20 +1,14 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/6f/b2/72/6fb27200744648265fb9ac14bf8e9f22.jpg" width="100%" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/6f/b2/72/6fb27200744648265fb9ac14bf8e9f22.jpg&w=1200&h=260&fit=cover&a=center" width="100%" />
 </div>
 
 <h3 align="center">Olá! Eu sou o Gervásio Sales 👋</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Analista%20de%20TI-1F6FEB?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Aura%20Minerals-E8A33D?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Infra%20e%20Suporte-2EA043?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou Analista de TI na Aura Minerals, onde cuido de infraestrutura, suporte e automação das rotinas do dia a dia. Gosto de resolver problema na raiz, documentar o que faço e automatizar tudo o que for repetitivo.
+Sou Assistente de TI na Aura Minerals, onde cuido de infraestrutura, suporte e automação das rotinas do dia a dia. Gosto de resolver problema na raiz, documentar o que faço e automatizar tudo o que for repetitivo.
 
 ## 🧰 Tecnologias e ferramentas
 
